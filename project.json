@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Take notes easily without opening any unnecessary applications.\n\nFor Best Results, hide desktop icons. \nRight Click on Desktop -> View -> Show Desktop Icons\n\nYou may have to unsubscribe and resubscribe to view the newest update!\n\nContribute on Github!\nhttps://github.com/braydenwerner/Whiteboard-Desktop-Wallpaper\n\nUpdated 4/20/21\n- Added a lock feature to disable pen usage when specified.\n- Added a color picker\n- Improved UI and added light theme\n- Fixed bug with eraser and selector tool\n- Other general improvements\n\nTodo:\n- Performance Updates\n- Delete Page Button",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Technology" ],
+	"title" : "EZ Notes - A Whiteboard Wallpaper Tool",
+	"type" : "Web",
+	"version" : 6,
+	"visibility" : "public",
+	"workshopid" : "2399605361",
+	"workshopurl" : "steam://url/CommunityFilePage/2399605361"
+}
